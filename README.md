@@ -1,6 +1,12 @@
 SpectroCoin-Wallet-Java
 ========================
 
+**MOVED**
+
+Up to date version can be found in [SpectroCoin Repo](https://github.com/SpectroCoin/Bitcoin-Wallet-Java)
+
+---------------
+
 Sample Java Wallet API client for communicating with [SpectroCoin](https://spectrocoin.com) Wallet API service. [API specification](https://github.com/SpectroFinance/SpectroCoin-Wallet-API/).
 
 # Contents
